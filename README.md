@@ -1,4 +1,6 @@
-# HpM | Hecho pr Mujeres
+# HpM | Hecho por Mujeres
+
+### Pioneras en Trabajo Social
 
 **[HpM](https://hecho.pormujeres.cl/) ha sido concebida como un modelo instrumental** que busca disminuir el impacto negativo de los sesgos androcéntricos en la construcción de la historia de las disciplinas en Chile mediante la visibilización del aporte de sus pioneras. 
 
