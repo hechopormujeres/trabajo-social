@@ -1,44 +1,18 @@
-Nombre,Foto ,Año de nacimiento,Año de defunción,País de nacimiento,Institución de formación,País de la institución,Estudios,Título de su tesis ,Año de titulación,Area de trabajo,obras,Telefono,Correo,
-Mariana Bravo Walker,,1898,1985,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC; F,Chile,Servicio Social,Historia de la Caridad,1932,"1966: JUNAEB le pide evaluar nutricionalmente los menús y capacitar a las manipuladoras de alimentos que prepararían miles de almuerzos diarios.
-1964: Después de jubilar escribió su libro “para que las mujeres de los Centros de Madres aprendieran a cocinar y reunieran a su familia alrededor de la mesa a comer sabroso”.",Cocina Popular,,,
-Rebeca Izquierdo ,Carmen Salineros - fotografía - 1952 (titulación).jpg,09/11/1893,14/07/77,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC; Formación en Belgica y Alemania,Chile,Servicio Social,"Fundación y desarrollo de la Escuela de Servicio Social ""Elvira Matte de Cruchaga""
-",1932,Servicio Social; Sericio Social Católica,,,,
-Adriana Izquierdo,Carmen Salineros - fotografía - 1952 (titulación).jpg,,por confirmar,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC; Formación en Belgica y Alemania,Chile,Servicio Social,Cómo se organizó la ayuda a los cesantes y la participación que en ella correspondió a la Escuela de Servicio Social Elvira Matte de Cruchaga,1932,Servicio Social; Sericio Social Católica,,,,
-Nidia Aylwin,Nidia-Aylwin-270x300.jpg,1929,2004,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC,Chile,"Servicio Social; En 1979, obtuvo el grado de magíster en Letras con mención en Literatura Latinoamericana y, en 1986, el Master of Teaching of Social Work.",Investigación sobre las condiciones de vida de las empleadas domésticas,1950,"Trabajo Social, Trabajo Social Familiar","Trabajo social familiar, escrito junto a la profesora María Olga Solar, y la Reinvención de la memoria, del que es coautora con las profesoras Alicia Forttes y Teresa Matus, Directora Escuela de Trabajo Social UC",,,
-Carmen Salineros,Carmen Salineros - fotografía - 1952 (titulación).jpg,1929 (aprox.),NA,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC,Chile,Servicio Social,Servicio social de inmigración,1951,"Trabajo Social, Seguro Social, Sistemas previsionales",Acompañamiento a universidad de la a desarrollar escuelas de servicio social,,,
-María Olga del Solar,,PENDIENTE,NA,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC,Chile,Servicio Social,PENDIENTE,,,"Trabajo social familiar, Directora Escuela de Trabajo Social UC, ",,,
-Mónica Jimenez,,25/12/1940,25/08/2020,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC,Chile,Servicio Social; Master en Educación para el Trabajo Social UCA,El problema habitacional en Chile y la participación del asistente social en su solución,1962,"Trabajo Social, Educación para el trabajo social","Ministra, Rectora, Directora de Fundación Participación Ciudadana, Miembra de la Comisión Rettig",,,
-Alicia Forttes,pendiente,1934,NA,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC,Chile,Servicio Social; Master en Educación para el Trabajo Social UCA,Seguridad industrial,1957,Trabajo Social en emepresas; Bienestar; Personas Mayores,Directora Escuela de Trabajo Social UC,,,
-Teresa Quiroz,,PENDIENTE,2021,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC,Chile,Servicio social; Magister en Trabajo Social Universidad de Puerto Rico.,,,,Directora Escuela de Trabajo Social UC,,,
-Mercedes Ezquerra,,PENDIENTE,,Chile,,Chile,Servicio Social,PENDIENTE,,"Trabajo Social, Seguro Social, Sistemas previsionales",Directora de la caja de servicio social,,,https://www.memoriachilena.gob.cl/602/articles-122515_recurso_2.pdf
-Margarita Quezada Venegas,,PENDIENTE,NA,Chile,Universidad de Chile,Chile,Servicio Social,,,,"Estudios en Políticas Sociales, pobreza, fundamentalmente urbana.Desde el año 2004 se inicia linea de estudio en el ámbito Adulto Mayor y vivienda y posteriormente desastre y adulto mayor.
+Nombre,Año de nacimiento,Año de defunción,País de nacimiento,Institución de formación,País de la institución,Estudios,Título de su tesis ,Año de titulación,Area de trabajo,obras
+Mariana Bravo Walker,1898,1985,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC; F,Chile,Servicio Social,Historia de la Caridad,1932,"1966: JUNAEB le pide evaluar nutricionalmente los menús y capacitar a las manipuladoras de alimentos que prepararían miles de almuerzos diarios.
+1964: Después de jubilar escribió su libro “para que las mujeres de los Centros de Madres aprendieran a cocinar y reunieran a su familia alrededor de la mesa a comer sabroso”.",Cocina Popular
+Rebeca Izquierdo ,09/11/1893,14/07/77,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC; Formación en Belgica y Alemania,Chile,Servicio Social,"Fundación y desarrollo de la Escuela de Servicio Social ""Elvira Matte de Cruchaga""
+",1932,Servicio Social; Sericio Social Católica,
+Adriana Izquierdo,,por confirmar,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC; Formación en Belgica y Alemania,Chile,Servicio Social,Cómo se organizó la ayuda a los cesantes y la participación que en ella correspondió a la Escuela de Servicio Social Elvira Matte de Cruchaga,1932,Servicio Social; Sericio Social Católica,
+Nidia Aylwin,1929,2004,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC,Chile,"Servicio Social; En 1979, obtuvo el grado de magíster en Letras con mención en Literatura Latinoamericana y, en 1986, el Master of Teaching of Social Work.",Investigación sobre las condiciones de vida de las empleadas domésticas,1950,"Trabajo Social, Trabajo Social Familiar","Trabajo social familiar, escrito junto a la profesora María Olga Solar, y la Reinvención de la memoria, del que es coautora con las profesoras Alicia Forttes y Teresa Matus, Directora Escuela de Trabajo Social UC"
+Carmen Salineros,1929 (aprox.),NA,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC,Chile,Servicio Social,Servicio social de inmigración,1951,"Trabajo Social, Seguro Social, Sistemas previsionales",Acompañamiento a universidad de la a desarrollar escuelas de servicio social
+María Olga del Solar,PENDIENTE,NA,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC,Chile,Servicio Social,PENDIENTE,,,"Trabajo social familiar, Directora Escuela de Trabajo Social UC, "
+Mónica Jimenez,25/12/1940,25/08/2020,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC,Chile,Servicio Social; Master en Educación para el Trabajo Social UCA,El problema habitacional en Chile y la participación del asistente social en su solución,1962,"Trabajo Social, Educación para el trabajo social","Ministra, Rectora, Directora de Fundación Participación Ciudadana, Miembra de la Comisión Rettig"
+Alicia Forttes,1934,NA,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC,Chile,Servicio Social; Master en Educación para el Trabajo Social UCA,Seguridad industrial,1957,Trabajo Social en emepresas; Bienestar; Personas Mayores,Directora Escuela de Trabajo Social UC
+Teresa Quiroz,PENDIENTE,2021,Chile,Escuela Elvira Matte de Cruchaga - Anexada a la UC,Chile,Servicio social; Magister en Trabajo Social Universidad de Puerto Rico.,,,,Directora Escuela de Trabajo Social UC
+Mercedes Ezquerra,PENDIENTE,,Chile,,Chile,Servicio Social,PENDIENTE,,"Trabajo Social, Seguro Social, Sistemas previsionales",Directora de la caja de servicio social
+Margarita Quezada Venegas,PENDIENTE,NA,Chile,Universidad de Chile,Chile,Servicio Social,,,,"Estudios en Políticas Sociales, pobreza, fundamentalmente urbana.Desde el año 2004 se inicia linea de estudio en el ámbito Adulto Mayor y vivienda y posteriormente desastre y adulto mayor.
 
-",,,https://investigadores.anid.cl/es/public_search/researcher?id=8281
-Teresa Lopez,,PENDINETE,2023,Chile,Escuela de Servicio Social Dr. Alejandro del Río en 1962,Chile,Servicio Social,,,,,,,
-Teresa Matus,,PENDIENTE,NA,Chile,Universidad de Concepción,Chile,Servicio Social,,,,Innovaciones efectivas en Política Pública; Evaluación y calidad de programas sociales en contextos de pobreza; Teorías críticas en Trabajo Social; Epistemología de las Ciencias Sociales.,#ERROR!,teresamatus@uchile.cl,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,vlarrea@larrea.cl ,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,hernan.garfias@aiep.cl ,
+"
+Teresa Lopez,PENDINETE,2023,Chile,Escuela de Servicio Social Dr. Alejandro del Río en 1962,Chile,Servicio Social,,,,
+Teresa Matus,PENDIENTE,NA,Chile,Universidad de Concepción,Chile,Servicio Social,,,,Innovaciones efectivas en Política Pública; Evaluación y calidad de programas sociales en contextos de pobreza; Teorías críticas en Trabajo Social; Epistemología de las Ciencias Sociales.
